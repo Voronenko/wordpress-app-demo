@@ -25,7 +25,7 @@ sql-dump-*.sql
 .env.*
 !.env.example
 
-# Vendor (e.g. Composer)
+# Composer
 vendor/*
 !vendor/.gitkeep
 
